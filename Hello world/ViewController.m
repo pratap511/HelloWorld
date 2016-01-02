@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Hello Pratap");
+    NSLog(@"How are you");
 }
 
 - (void)didReceiveMemoryWarning {
